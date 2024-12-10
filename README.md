@@ -15,9 +15,9 @@ This is a simple CRUD application built using Java, MySQL, and React. The applic
 
 ### Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repo-name.git`
+1. Clone the repository: `git clone https://github.com/JPrakash15/CRUD_Demo_App_full-stack`
 2. Install dependencies: `npm install`
-3. Start the Java server: `java -jar target/your-app.jar`
+3. Start the Java server: `java -jar target/CRUD_Demo_App_full.jar`
 4. Start the React app: `npm start`
 
 ## API Documentation
